@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216545514028",
+    "firebase_url": "https://skill-up-quiz.firebaseio.com",
+    "project_id": "skill-up-quiz",
+    "storage_bucket": "skill-up-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216545514028:android:b09711c3b7bae10c",
+        "android_client_info": {
+          "package_name": "com.example.skillupquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216545514028-ar7d0ir547gdamhv51lc5hpoo94u46nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skillupquiz",
+            "certificate_hash": "4420951d6d793139c211eacf1eccc76ef6b417df"
+          }
+        },
+        {
+          "client_id": "216545514028-lhcnqajo34m303pnh3fmb6kn66mi1njb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVn-pYxVIiAIDEhPZPZrdzAnVdhefLBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216545514028-lhcnqajo34m303pnh3fmb6kn66mi1njb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
